@@ -1,4 +1,4 @@
-# 🏪 IMS - Inventory Management System
+# 🏪 Stock Master
 
 A comprehensive **Java-based Inventory Management System** with multi-level user access (CEO → Manager → Cashier), built with Swing GUI and SQLite database.
 
